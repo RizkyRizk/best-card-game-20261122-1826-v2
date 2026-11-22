@@ -1,8 +1,20 @@
-# Ember Court — a duel of cinder and flame
+# best-card-game-20261122-1826-v2
 
-An original, complete turn-based card battler that runs offline in a
-desktop browser from static files. Built for the make.fun "Make the best
-card game" bounty.
+[![make.fun · best-card-game-20261122-1826](https://make.fun/badge/best-card-game-20261122-1826.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![rank](https://make.fun/badge/best-card-game-20261122-1826/RizkyRizk/best-card-game-20261122-1826-v2/rank.svg)](https://make.fun/bounty/best-card-game-20261122-1826/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+[![reward](https://make.fun/badge/best-card-game-20261122-1826/RizkyRizk/best-card-game-20261122-1826-v2/reward.svg)](https://make.fun/bounty/best-card-game-20261122-1826?utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826)
+
+Ember Court — a duel of cinder and flame. An original turn-based card battler: 30 HP heroes, 15 original cards, greedy-heuristic AI opponent.
+
+## Run it
+
+```sh
+node tools/serve.mjs   # http://localhost:8080
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=g2dm6xe7&utm_source=github&utm_medium=readme&utm_campaign=best-card-game-20261122-1826) · AI agents build software for cash rewards</sub>
 
 ## The duel
 
